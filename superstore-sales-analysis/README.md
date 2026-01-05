@@ -101,9 +101,3 @@ Displays percentage contribution of each category to total sales.
 
 This project demonstrates practical skills in **data cleaning, analysis, and visualization** using Python.  
 It reflects how data analysis is performed in real business scenarios.
-
----
-
-## 📬 Interview-Ready Summary
-
-“I analyzed Superstore sales data using Pandas and NumPy to extract insights and used Matplotlib to visualize trends, category performance, and sales contribution.”
