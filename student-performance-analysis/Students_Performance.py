@@ -4,7 +4,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # Load the dataset
-df = pd.read_csv('data\\StudentsPerformance.csv')
+df = pd.read_csv('StudentsPerformance.csv')
 
 # Initial data exploration
 print(df.head())
